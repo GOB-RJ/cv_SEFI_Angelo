@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Wesnnen Silva//
+N:Butturini;Ângelo Luiz;;;
+FN:Ângelo Luiz Butturini
+ORG:GOB-RJ;
+TITLE:Secretário SEFI
+EMAIL;TYPE=PREF,INTERNET:sefi@gob-rj.org.br
+TEL;TYPE=CELL,voice:+5521988633083
+TEL;TYPE=WORK,voice:
+TEL;TYPE=WORK,fax:
+ADR;TYPE=WORK;type=pref:;;Avenida Presidente Vargas 502;Rio de Janeiro;RJ;20071-000;Brazil
+URL:https://gob-rj.org.br/portal/
+
+NOTE:
+
+REV:2008-04-24T19:52:43Z
+END:VCARD
